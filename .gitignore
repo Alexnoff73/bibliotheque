@@ -16,3 +16,5 @@
 ###< symfony/phpunit-bridge ###
 
 .idea/
+*.yaml
+config/packages/dev/web_profiler.yaml
